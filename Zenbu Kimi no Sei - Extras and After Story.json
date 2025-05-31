@@ -4,5 +4,30 @@
   "artist": "Asazuki Norito",
   "author": "Asazuki Norito",
   "cover": "https://mangadex.org/covers/0458e53f-59ab-49f0-b99a-9deb16049377/a0b9c6a0-cb16-46eb-ab60-92b1a2ccb3f3.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "A Highschool Boy Who Turned Into a Girl ①",
+      "volume": "0",
+      "last_updated": "1727494595",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/zenbu-extras-v0-ch1-highschool-boy-who-turned-into-girl-JoRiCoW"
+      }
+    },
+    "2": {
+      "title": "A Highschool Boy Who Turned Into a Girl ②",
+      "volume": "0",
+      "last_updated": "1733542673",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/zenbu-extras-v0-ch2-highschool-boy-who-turned-into-girl-R9m6P1d"
+      }
+    },
+    "3": {
+      "title": "A Highschool Boy Who Turned Into a Girl ③",
+      "volume": "0",
+      "last_updated": "1727753903",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/HpN0VUK"
+      }
+    }
+  }
 }
