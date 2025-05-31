@@ -1,6 +1,6 @@
 {
   "title": "Wotaku ni Koi wa Muzukashii Comic Anthology",
-  "description": "Minekura Kazuya (Saiyuki), Azusa Kina (After School at the Coffee Shop), Namori (YuruYuri), etc... A splendid writing team participates!\nThe official comic anthology of the popular manga Wotakoi: Love Is Hard for Otaku, which has sold a total of over 9 million copies (including digital editions)!",
+  "description": "Minekura Kazuya (Saiyuki), Azusa Kina (After School at the Coffee Shop), Namori (YuruYuri), etc... A splendid writing team participates!\nThe official comic anthology of the popular manga Wotakoi: Love Is Hard for Otaku, which has sold a total of over 9 million copies (including digital editions)!\n\nContributors:\nCover: Fujita\nIllustrations: Akiyoshi Shima, Sachiko, Namori, Haida Nanako\nManga:\n\n1: Azusa Kina\n2: Konno Paru\n3: Hachiya Kujira\n4: Shiromanta\n5: Yamaguchi Eito\n6: Dorokawa Megumi\n7: Kakitsubata Waka\n8: Nagao Uka\n9: Anno\n10: Tachi Aoi\n11: Medamayaki\n12: Nouichi Nye\n13: Minami Kiri\n14: Megane\n15: Asahi Noboru\n16: Minekura Kazuya",
   "artist": "Various",
   "author": "Various",
   "cover": "https://mangadex.org/covers/611576ff-df9b-45da-a47e-50df2ba0302f/ce4f59aa-a145-4390-83e8-7636fed64903.jpg",
@@ -27,6 +27,22 @@
       "last_updated": "1745377351",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/z0FPLgP"
+      }
+    },
+    "4": {
+      "title": "I Want You to Care About Me (by Shiromanta)",
+      "volume": "",
+      "last_updated": "1745550316",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/o9aJoSs"
+      }
+    },
+    "5": {
+      "title": "If It Were Me (by Yamaguchi Eito)",
+      "volume": "",
+      "last_updated": "1747796777",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/U84992Z"
       }
     }
   }
