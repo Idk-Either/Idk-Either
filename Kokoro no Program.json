@@ -5,6 +5,14 @@
   "author": "Nakamura Hinata",
   "cover": "https://mangadex.org/covers/e76f1a4f-d21a-4f50-9472-45737f7f1480/f966307f-895c-41a8-b6fc-a3af3a5db3e6.jpg",
   "chapters": {
+    "6.5": {
+      "title": "V1 Extras",
+      "volume": "1",
+      "last_updated": "1723256995",
+      "groups": {
+        "Idk Either": "/proxy/api/imgur/chapter/BISXCKg"
+      }
+    },
     "7": {
       "title": "Lightning and Poker Faces ①",
       "volume": "2",
@@ -77,6 +85,14 @@
         "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/QPfQhwI"
       }
     },
+    "15.5": {
+      "title": "Neo's Heart",
+      "volume": "2",
+      "last_updated": "1737427748",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/kokoro-no-program-v2-ch15-5-neos-heart-ocGoL8o"
+      }
+    },
     "16": {
       "title": "The Rumoured Two",
       "volume": "3",
@@ -131,22 +147,6 @@
       "last_updated": "1751720400",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/z8dhROE"
-      }
-    },
-    "6.5": {
-      "title": "V1 Extras",
-      "volume": "1",
-      "last_updated": "1723256995",
-      "groups": {
-        "Idk Either": "/proxy/api/imgur/chapter/BISXCKg"
-      }
-    },
-    "15.5": {
-      "title": "Neo's Heart",
-      "volume": "2",
-      "last_updated": "1737427748",
-      "groups": {
-        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/kokoro-no-program-v2-ch15-5-neos-heart-ocGoL8o"
       }
     }
   }
