@@ -130,7 +130,9 @@
       "volume": "3",
       "last_updated": "1751720400",
       "groups": {
-        "Idk Either": "/proxy/api/imgur/chapter/z8dhROE"
+        "Idk Either": [
+          "https://imgur.com/a/z8dhROE"
+        ]
       }
     },
     "6.5": {
