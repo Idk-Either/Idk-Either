@@ -5,14 +5,6 @@
   "author": "Nakamura Hinata",
   "cover": "https://mangadex.org/covers/e76f1a4f-d21a-4f50-9472-45737f7f1480/f966307f-895c-41a8-b6fc-a3af3a5db3e6.jpg",
   "chapters": {
-    "6.5": {
-      "title": "V1 Extras",
-      "volume": "1",
-      "last_updated": "1723256995",
-      "groups": {
-        "Idk Either": "/proxy/api/imgur/chapter/BISXCKg"
-      }
-    },
     "7": {
       "title": "Lightning and Poker Faces ①",
       "volume": "2",
@@ -85,14 +77,6 @@
         "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/QPfQhwI"
       }
     },
-    "15.5": {
-      "title": "Neo's Heart",
-      "volume": "2",
-      "last_updated": "1737427748",
-      "groups": {
-        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/kokoro-no-program-v2-ch15-5-neos-heart-ocGoL8o"
-      }
-    },
     "16": {
       "title": "The Rumoured Two",
       "volume": "3",
@@ -146,7 +130,47 @@
       "volume": "3",
       "last_updated": "1751720400",
       "groups": {
-        "Idk Either": "/proxy/api/imgur/chapter/z8dhROE"
+        "Idk Either": [
+          "https://files.catbox.moe/apt1ce.png",
+          "https://files.catbox.moe/sguw26.png",
+          "https://files.catbox.moe/wdxjts.png",
+          "https://files.catbox.moe/h4shcy.png",
+          "https://files.catbox.moe/b8at2d.png",
+          "https://files.catbox.moe/ftkifp.png",
+          "https://files.catbox.moe/cjvvq4.png",
+          "https://files.catbox.moe/9e4jb5.png",
+          "https://files.catbox.moe/zmcvec.png",
+          "https://files.catbox.moe/s9ohr0.png",
+          "https://files.catbox.moe/re7xt2.png",
+          "https://files.catbox.moe/eajk3e.png",
+          "https://files.catbox.moe/8w30li.png",
+          "https://files.catbox.moe/ax2g7b.png",
+          "https://files.catbox.moe/qooken.png",
+          "https://files.catbox.moe/jqiyb4.png",
+          "https://files.catbox.moe/e3r8uc.png",
+          "https://files.catbox.moe/o2tbho.png",
+          "https://files.catbox.moe/brligf.png",
+          "https://files.catbox.moe/8yjhdy.png",
+          "https://files.catbox.moe/66em1y.png",
+          "https://files.catbox.moe/eyn9p2.png",
+          "https://files.catbox.moe/3l0st5.png"
+        ]
+      }
+    },
+    "6.5": {
+      "title": "V1 Extras",
+      "volume": "1",
+      "last_updated": "1723256995",
+      "groups": {
+        "Idk Either": "/proxy/api/imgur/chapter/BISXCKg"
+      }
+    },
+    "15.5": {
+      "title": "Neo's Heart",
+      "volume": "2",
+      "last_updated": "1737427748",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/kokoro-no-program-v2-ch15-5-neos-heart-ocGoL8o"
       }
     }
   }
