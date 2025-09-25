@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Return! Girl Skill! (by Azusa Kina)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1740625171",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/klgs4Ah"
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "Koyanagi Hanako is Acting Strange (by Konno Paru)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1742007638",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/AL1YGB5"
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "Finger Magic (by Hachiya Kujira)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1745377351",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/z0FPLgP"
@@ -31,7 +31,7 @@
     },
     "4": {
       "title": "I Want You to Care About Me (by Shiromanta)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1745550316",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "https://imgur.com/a/o9aJoSs"
@@ -39,7 +39,7 @@
     },
     "5": {
       "title": "If It Were Me (by Yamaguchi Eito)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1747796777",
       "groups": {
         "Idk Either, Rosa's Silly Scans": "/proxy/api/imgur/chapter/U84992Z"
@@ -47,7 +47,7 @@
     },
     "6": {
       "title": "Every Day is Lively! Narumi-chan! (by Dorokawa Megumi)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1752231600",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/P7EURNi"
@@ -55,10 +55,32 @@
     },
     "7": {
       "title": "I Like You When You're Trying Your Hardest (by Kakitsubata Waka)",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1754064000",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/zZDb4qg"
+      }
+    },
+    "8": {
+      "title": "A Wotaku's Valentine's is... (by Nagao Uka)",
+      "volume": "1",
+      "last_updated": "1758553200",
+      "groups": {
+        "Idk Either, Rosa's Silly Scans": [
+          "https://files.catbox.moe/k20gvm.png",
+          "https://files.catbox.moe/afqxqo.png",
+          "https://files.catbox.moe/wixiho.png",
+          "https://files.catbox.moe/okky83.png",
+          "https://files.catbox.moe/54lcwv.png",
+          "https://files.catbox.moe/w6muxv.png",
+          "https://files.catbox.moe/hb9wnq.png",
+          "https://files.catbox.moe/tsp0jp.png",
+          "https://files.catbox.moe/c5syxv.png",
+          "https://files.catbox.moe/5rnbrf.png",
+          "https://files.catbox.moe/271q7r.png",
+          "https://files.catbox.moe/bjqo6n.png",
+          "https://files.catbox.moe/ap22ou.png"
+        ]
       }
     }
   }
