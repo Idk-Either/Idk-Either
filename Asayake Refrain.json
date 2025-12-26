@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "The Rising Sun",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1749321900",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/asayake-refrain-ch1-bright-red-sun-that-crawled-up-532rTxT"
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "The Tiptoes That Moved",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1751983200",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/BYgdCDp"
@@ -23,7 +23,7 @@
     },
     "3": {
       "title": "Continuous Rhythm",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1754067600",
       "groups": {
         "Idk Either": [
@@ -65,12 +65,113 @@
         ]
       }
     },
+    "4": {
+      "title": "Dawned Silence",
+      "volume": "1",
+      "last_updated": "1759419208",
+      "groups": {
+        "Idk Either": [
+          "https://files.catbox.moe/1kh4uk.png",
+          "https://files.catbox.moe/u5lne7.png",
+          "https://files.catbox.moe/frnuwq.png",
+          "https://files.catbox.moe/rxxi6v.png",
+          "https://files.catbox.moe/berxqd.png",
+          "https://files.catbox.moe/ufj7b1.png",
+          "https://files.catbox.moe/kdhmjd.png",
+          "https://files.catbox.moe/qmrs9j.png",
+          "https://files.catbox.moe/5m9vc7.png",
+          "https://files.catbox.moe/7uxeen.png",
+          "https://files.catbox.moe/uz7yln.png",
+          "https://files.catbox.moe/aua9zd.png",
+          "https://files.catbox.moe/zadw0p.jpg",
+          "https://files.catbox.moe/3j383b.png",
+          "https://files.catbox.moe/b2gytj.png",
+          "https://files.catbox.moe/no73ip.png",
+          "https://files.catbox.moe/vqc4c5.png",
+          "https://files.catbox.moe/elevja.png",
+          "https://files.catbox.moe/x9f4pk.jpg",
+          "https://files.catbox.moe/jt3yk5.png",
+          "https://files.catbox.moe/w2z2bt.png",
+          "https://files.catbox.moe/gp9w2f.png",
+          "https://files.catbox.moe/3lx6xl.png",
+          "https://files.catbox.moe/rwmddq.png",
+          "https://files.catbox.moe/3bn74g.png",
+          "https://files.catbox.moe/g54qir.png",
+          "https://files.catbox.moe/1fonxv.png",
+          "https://files.catbox.moe/96h7ag.png",
+          "https://files.catbox.moe/dubh22.png"
+        ]
+      }
+    },
+    "5": {
+      "title": "The Silhouette That Remained",
+      "volume": "1",
+      "last_updated": "1761493198",
+      "groups": {
+        "Idk Either": [
+          "https://files.catbox.moe/ipkl1j.png",
+          "https://files.catbox.moe/xdaf4q.png",
+          "https://files.catbox.moe/yobefx.png",
+          "https://files.catbox.moe/vza2nj.png",
+          "https://files.catbox.moe/27u5a5.png",
+          "https://files.catbox.moe/h6r9z9.png",
+          "https://files.catbox.moe/novhcw.png",
+          "https://files.catbox.moe/7n0avo.png",
+          "https://files.catbox.moe/0siibn.png",
+          "https://files.catbox.moe/0l93l9.png",
+          "https://files.catbox.moe/m80xzz.png",
+          "https://files.catbox.moe/35xbfu.png",
+          "https://files.catbox.moe/rbuwvr.png",
+          "https://files.catbox.moe/cyu4o1.png",
+          "https://files.catbox.moe/n0t34h.png",
+          "https://files.catbox.moe/pgvoxk.png",
+          "https://files.catbox.moe/b23syt.png",
+          "https://files.catbox.moe/fhaz62.png",
+          "https://files.catbox.moe/wybbdi.png",
+          "https://files.catbox.moe/cnwa5s.png",
+          "https://files.catbox.moe/oislhh.png",
+          "https://files.catbox.moe/37s3dh.png",
+          "https://files.catbox.moe/vk65ht.png"
+        ]
+      }
+    },
     "1.5": {
       "title": "Extras",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1751299200",
       "groups": {
         "Idk Either": "/proxy/api/imgur/chapter/asayake-1-5-KcVJcvV"
+      }
+    },
+    "5.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "last_updated": "1763739734",
+      "groups": {
+        "Idk Either": [
+          "https://files.catbox.moe/c45iaq.jpg",
+          "https://files.catbox.moe/rl9hfr.jpeg",
+          "https://files.catbox.moe/3z3bqz.png",
+          "https://files.catbox.moe/fuoauy.png",
+          "https://files.catbox.moe/yenj6t.png",
+          "https://files.catbox.moe/a24phf.png",
+          "https://files.catbox.moe/6zgc3d.png",
+          "https://files.catbox.moe/m8667y.png",
+          "https://files.catbox.moe/atscjn.png",
+          "https://files.catbox.moe/k1roy3.png",
+          "https://files.catbox.moe/83rmis.png",
+          "https://files.catbox.moe/wi7t5z.png",
+          "https://files.catbox.moe/c92hnv.png",
+          "https://files.catbox.moe/fl2oz6.png",
+          "https://files.catbox.moe/8tyx19.png",
+          "https://files.catbox.moe/i5vrdh.png",
+          "https://files.catbox.moe/t3u4tl.png",
+          "https://files.catbox.moe/goza7j.png",
+          "https://files.catbox.moe/6eae02.png",
+          "https://files.catbox.moe/b390yh.png",
+          "https://files.catbox.moe/b1eau0.jpeg",
+          "https://files.catbox.moe/vk65ht.png"
+        ]
       }
     }
   }
